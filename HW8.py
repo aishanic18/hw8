@@ -111,7 +111,7 @@ def get_highest_rating(db): #Do this through DB as well
     which has the highest rating of restaurants and its average rating.
 
     This function should also plot two barcharts in one figure. The first bar chart displays the categories 
-    along the y-axis and their ratings along the x-axis in descending order (by rating).
+    along the y-axis and teir ratings along the x-axis in descending order (by rating).
     The second bar chart displays the buildings along the y-axis and their ratings along the x-axis 
     in descending order (by rating).
     """
